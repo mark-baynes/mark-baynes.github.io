@@ -1,0 +1,22 @@
+body {
+  background:#999;
+  font-family: arial;
+} 
+
+h1, h2 {
+  color: #000;
+}
+
+p {
+  background: #666;
+  color: white;
+  padding: 10px, 10px,0px,
+}
+
+.firstclass {
+  color:black;
+}
+
+#firstid {
+  color:rgb(179, 35, 35);
+}
