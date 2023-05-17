@@ -20,6 +20,12 @@ a:hover {
   color: #D61347; /* Link color on hover */
 }
 
+.default-blog-paragraph {
+  padding: 5px 5px 5px 0px;
+  font-size: 1em;
+  margin-left: 18%;
+  margin-right: 18%;
+}
 
 .background-image {
   background-image: url("../images/background-image.png");
