@@ -4,12 +4,12 @@ body {
   margin: 0;
   }
 
-p {
-  
-  color: black;
-  font-size: 1.3em;
-  padding: 20px 18% 10px 18%;
-}
+  p {
+    margin: 0;
+    color: black;
+    font-size: 1.3em;
+    padding: 20px 18% 10px 18%;
+  }
 
 a {
   color: #D61347; /* Default link color */
